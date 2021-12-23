@@ -1,0 +1,16 @@
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 200px;
+    text-align: left;
+}
+/*
+input {
+    display: inline-block;
+    float: left;
+}
+select{
+    display: inline-block;
+    float: left;
+}*/
